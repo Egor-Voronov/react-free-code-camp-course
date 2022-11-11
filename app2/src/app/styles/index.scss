@@ -1,1 +1,5 @@
-@import "src/app/styles/_styles/style1"
+@import "src/app/styles/_styles/style1";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
